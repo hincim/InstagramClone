@@ -77,9 +77,9 @@ class SignUpActivity : AppCompatActivity() {
 
         val userMap = HashMap<String, Any>()
         userMap["uid"] = currentUserId
-        userMap["fullname"] = currentUserId
-        userMap["username"] = currentUserId
-        userMap["email"] = currentUserId
+        userMap["fullname"] = fullName
+        userMap["username"] = userName
+        userMap["email"] = email
         userMap["bio"] = "hey i am hakan"
         userMap["image"] = ""
 
