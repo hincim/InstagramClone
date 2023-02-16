@@ -13,6 +13,8 @@
         <entry key="..\:/kotlinprojeler/InstagramClone/app/src/main/res/drawable/inputs_background.xml" value="0.1225" />
         <entry key="..\:/kotlinprojeler/InstagramClone/app/src/main/res/layout/activity_account_settings.xml" value="0.2" />
         <entry key="..\:/kotlinprojeler/InstagramClone/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/kotlinprojeler/InstagramClone/app/src/main/res/layout/activity_sign_in.xml" value="0.2526041666666667" />
+        <entry key="..\:/kotlinprojeler/InstagramClone/app/src/main/res/layout/activity_sign_up.xml" value="0.2526041666666667" />
         <entry key="..\:/kotlinprojeler/InstagramClone/app/src/main/res/layout/fragment_home.xml" value="0.2" />
         <entry key="..\:/kotlinprojeler/InstagramClone/app/src/main/res/layout/fragment_notifications.xml" value="0.2526041666666667" />
         <entry key="..\:/kotlinprojeler/InstagramClone/app/src/main/res/layout/fragment_profile.xml" value="0.264" />
