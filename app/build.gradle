@@ -6,6 +6,8 @@ plugins {
 android {
     compileSdk 33
 
+
+
     defaultConfig {
         applicationId "com.hakaninc.instagramclone"
         minSdk 21
@@ -31,6 +33,7 @@ android {
     }
     buildFeatures {
         viewBinding true
+        dataBinding = true
     }
 }
 
